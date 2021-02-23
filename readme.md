@@ -2,7 +2,7 @@
 ## Clue-based Lateral Logic Game
 
 ## Objective 
-The player must investigate the premises and detrime based on testimony and evidence who the liar is, i.e. the murderer. 
+The player must investigate the premises and determine who the liar (i.e. murderer) is based on testimony and evidence. 
 
 ## Technology
 This is a stateless game system, written in HTML & Bootstrap.   
